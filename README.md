@@ -129,8 +129,8 @@ If you are interested in 6D pose estimation in industrial settings, we recommend
 Our implementation builds upon several excellent open-source projects:
 
 - NOCS  
-- Pointcept (PTv3)  
-- DualPoseNet  
+- PointTransformerV3
+
 
 We sincerely appreciate their valuable contributions to the 3D vision community.
 
@@ -161,4 +161,4 @@ This project is released under the MIT License (see the LICENSE file for details
 ## Contact
 
 - **Baiyang Wang**: 202320482@mail.sdu.edu.cn  
-- **Hua Li (Corresponding Author)**: sdlh@sdu.edu.cn  
+
